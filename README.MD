@@ -41,7 +41,7 @@ Esse projeto não possui um sistema de versionamento.
 
 ## 🆙 Projeto no ar
 
-É possível acessar a aplicação através da URL: [Link](https://previsao-tempo.netlify.app/) .
+É possível acessar a aplicação através da URL: [Link](https://previsaodotempo.vercel.app/) .
 
 ## 👨‍💻 Contribuir/Contributing
 
